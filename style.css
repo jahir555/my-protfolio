@@ -56,7 +56,7 @@ p{
 .exprience-area {
 background-image: url("images/exp-bg.png");
 background-repeat: no-repeat;
-background-position: center;
+background-position: left;
 }
 #full-stuck{
     border-left: 7px solid;
